@@ -10,3 +10,6 @@ this is my collection of machine learning algorithm while I'm doing my Bachelor 
 ## Clustering Algorithm:
 - K-means
 - Heirarical Clustering
+
+### PS:
+this repository not filled yet. files and folder are still being organized
